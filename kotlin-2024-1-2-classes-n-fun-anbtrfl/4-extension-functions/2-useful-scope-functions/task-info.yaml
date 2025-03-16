@@ -1,0 +1,16 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    learner_created: false
+  - name: test/Tests.kt
+    visible: true
+    learner_created: false
+  - name: src/Utils.kt
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 09 Oct 2024 19:18:46 UTC"
+record: -1
