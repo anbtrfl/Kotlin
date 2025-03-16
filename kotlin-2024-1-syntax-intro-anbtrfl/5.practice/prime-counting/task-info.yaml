@@ -1,0 +1,44 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: E1SJj7jPmwPW/Y8TGBLEkmxZv+0fz6mdTFVfpUqXUAY=
+        selected: false
+        status: Solved
+      - offset: 59
+        length: 14
+        placeholder_text: TODO()
+        initial_state:
+          length: 14
+          offset: 59
+        initialized_from_dependency: false
+        encrypted_possible_answer: +CGi8633W6A7LUtqalbziQ==
+        selected: true
+        status: Solved
+      - offset: 230
+        length: 121
+        placeholder_text: TODO()
+        initial_state:
+          length: 121
+          offset: 230
+        initialized_from_dependency: false
+        encrypted_possible_answer: +CGi8633W6A7LUtqalbziQ==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/Tests.kt
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 05 Oct 2024 13:44:49 UTC"
+record: -1
